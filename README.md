@@ -43,7 +43,7 @@ Dr. Aziz Özmen received his Ph.D. in Criminal Justice from the College of Crimi
 
 ### 📶 GitHub Stats:
 
-<img alt="🦁" align="left" width="400px" src="https://github.com/dlion/dlion/blob/main/metrics.svg">
+<img alt="🦁" align="left" width="400px" src="https://github.com/mattcon70/mattcon70/blob/main/metrics.svg">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattcon70&" alt="mattcon70" /></p>
 
