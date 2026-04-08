@@ -6,8 +6,7 @@ Dr. Aziz Özmen received his Ph.D. in Criminal Justice from the College of Crimi
 
 
 
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me on Socials
 <p align="left">
 <a href="https://kaggle.com/azizozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="azizozmen" height="30" width="40" /></a>
 <a href="https://medium.com/@azizozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azizozmen" height="30" width="40" /></a>
@@ -47,8 +46,7 @@ Dr. Aziz Özmen received his Ph.D. in Criminal Justice from the College of Crimi
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattcon70&" alt="mattcon70" /></p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MattCon70&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -56,4 +54,4 @@ Dr. Aziz Özmen received his Ph.D. in Criminal Justice from the College of Crimi
 ---
 [![](https://visitcount.itsvg.in/api?id=MattCon70&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
