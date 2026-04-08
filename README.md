@@ -42,7 +42,8 @@ Dr. Aziz Özmen received his Ph.D. in Criminal Justice from the College of Crimi
 <br>
 
 ### 📶 GitHub Stats:
-[![Aziz Özmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattCon70)](https://github.com/anuraghazra/github-readme-stats)
+[![Aziz Özmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattCon70&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattcon70&" alt="mattcon70" /></p>
 
 
