@@ -36,9 +36,7 @@ Dr. Aziz Özmen received his Ph.D. in Criminal Justice from the College of Crimi
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![ Bi](https://img.shields.io/badge/_bi-F2C811?style=for-the-badge&logo=bi&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattcon70&show_icons=true&locale=en&layout=compact" alt="mattcon70" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattcon70&show_icons=true&locale=en" alt="mattcon70" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattcon70&" alt="mattcon70" /></p>
 
