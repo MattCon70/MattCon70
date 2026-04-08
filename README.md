@@ -4,17 +4,16 @@
 
 Dr. Aziz Özmen received his Ph.D. in Criminal Justice from the College of Criminal Justice at Sam Houston State University in 2008. His research interests and areas of expertise include Data Science, Machine Learning, Natural Language Processing (NLP), Artificial Intelligence, Statistical Modelling, Predictive Analysis, Data Visualization, Leadership Studies, Job Satisfaction, Aviation Security, and Criminal Justice Policy.<br>He has extensive experience in both academic and industry settings. As a Data Analyst, Data Scientist, and AI Engineer, he has developed AI-powered tools for digital marketing and solution architecture, including Shopify analysis dashboards, GA4 analysis tools, multi-platform marketing analysis systems, SEO blog writers, and review scraper and analyzer tools. He has also completed numerous data science projects, including customer churn prediction, heart failure prediction, customer segmentation, sentiment analysis, and price prediction using advanced machine learning and deep learning techniques.<br>He has significant teaching experience at various institutions. He has served as an instructor in Statistics, Research Methods, Data Preparation and Analysis, Data Visualization, Tableau, and Machine Learning, covering topics such as Linear Regression, Logistic Regression, Decision Trees, Random Forest, Convolutional Neural Networks, and other machine learning algorithms at Clarusway, Ondia, and the Saudi Digital Academy.<br>He has published and presented several articles, book chapters, and academic papers on leadership styles in the Turkish National Police, aviation security and terrorism, juvenile recidivism prediction, criminal justice data mining and multiple papers on data science applications in cybersecurity, social media analytics, financial market anomaly detection, and customer lifetime value estimation.<br>He also worked as a Research Assistant and Graduate Research Assistant at the Bill Blackwood Law Enforcement Management Institute of Texas (LEMIT), supporting police training programs and collecting and analyzing data on police participants. He is currently working as an AI Engineer and Data Analyst-Scientist at Admirise, a German company.<br>
 
-
+<br>
 
 ### 🌐 Connect with me on Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/matthew-connor-data-scientist-nlp-phd-in-criminal-justice/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="@azizozmen" height="30" width="40" /></a>
-<a href="https://kaggle.com/azizozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="azizozmen" height="30" width="40" /></a>
-<a href="https://medium.com/@azizozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azizozmen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matthew-connor-data-scientist-nlp-phd-in-criminal-justice/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin-azizozmen" height="30" width="40" /></a>
+<a href="https://kaggle.com/azizozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle-azizozmen" height="30" width="40" /></a>
+<a href="https://medium.com/@azizozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium-azizozmen" height="30" width="40" /></a>
 </p>
 
-
-
+<br>
 
 ### 💻 Tech Stack-Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -38,10 +37,12 @@ Dr. Aziz Özmen received his Ph.D. in Criminal Justice from the College of Crimi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![ Bi](https://img.shields.io/badge/_bi-F2C811?style=for-the-badge&logo=bi&logoColor=black)
+![Power BI](https://img.shields.io/badge/_bi-F2C811?style=for-the-badge&logo=bi&logoColor=black)
 
+<br>
 
-
+### 📶 GitHub Stats:
+[![Aziz Özmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattCon70)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattcon70&" alt="mattcon70" /></p>
 
 
