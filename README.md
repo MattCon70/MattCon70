@@ -8,11 +8,15 @@ Dr. Aziz Özmen received his Ph.D. in Criminal Justice from the College of Crimi
 
 ### 🌐 Connect with me on Socials:
 <p align="left">
+<a href="https://www.linkedin.com/in/matthew-connor-data-scientist-nlp-phd-in-criminal-justice/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="@azizozmen" height="30" width="40" /></a>
 <a href="https://kaggle.com/azizozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="azizozmen" height="30" width="40" /></a>
 <a href="https://medium.com/@azizozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azizozmen" height="30" width="40" /></a>
 </p>
 
-### 🌐 💻 Tech Stack-Languages and Tools:
+
+
+
+### 💻 Tech Stack-Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
