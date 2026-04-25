@@ -10,7 +10,7 @@ Dr. Aziz Özmen received his Ph.D. in Criminal Justice from the College of Crimi
 
 ### 🌐 Connect with me on Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/matthew-connor-data-scientist-nlp-phd-in-criminal-justice/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin-azizozmen" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/matthew-connor-data-scientist-nlp-phd-in-criminal-justice/](https://www.linkedin.com/in/aziz-ozmen-data-scientist-nlp-phd-in-criminal-justice/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin-azizozmen" height="30" width="40" /></a>
 <a href="https://kaggle.com/azizozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle-azizozmen" height="30" width="40" /></a>
 <a href="https://medium.com/@azizozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium-azizozmen" height="30" width="40" /></a>
 </p>
